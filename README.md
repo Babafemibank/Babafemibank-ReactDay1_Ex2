@@ -1,0 +1,2 @@
+This is the Interface of the About me page for react Exercise 2 day 1
+<img width="1479" height="647" alt="Image" src="https://github.com/user-attachments/assets/d49dfc73-a662-46e6-a20d-382655c0f541" />
